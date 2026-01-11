@@ -20,7 +20,7 @@ A dynamic Todo List application that allows users to organize tasks into project
 
 ## Live Demo
 
-[View Live Demo](https://thechosen-1.github.io/Todo-List/)
+[View Live Demo](https://inshaal81.github.io/Todo-List/)
 
 ## Getting Started
 
